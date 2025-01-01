@@ -176,5 +176,4 @@ models/*
 data/*
 20*/*
 
-weight_to_id.csv
-distances_*.csv
+*.csv
