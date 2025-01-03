@@ -177,3 +177,4 @@ data/*
 20*/*
 
 *.csv
+*_analysis.ipynb
