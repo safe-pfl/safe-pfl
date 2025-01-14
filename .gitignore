@@ -178,3 +178,5 @@ data/*
 
 *.csv
 *_analysis.ipynb
+
+model_parameters/*
