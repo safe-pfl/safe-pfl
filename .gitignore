@@ -170,13 +170,22 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+results/
 results/*
+sensitive_id/
 sensitive_id/*
+models/
 models/*
+data/
 data/*
+20*/
 20*/*
 
 *.csv
 *_analysis.ipynb
 
+model_parameters/
 model_parameters/*
+
+logs/
+logs/*
